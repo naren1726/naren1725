@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a android app as a personal project 
 - 🌱 I’m currently learning Java Script, Advanced FLutter! 
 - 👯 I’m looking to collaborate on Android apps and conference events 
-- 📫 How to reach me: sabiha.shaik121@gmail.com 
+- 📫 How to reach me: narenml2000@gmail.com
  
 
 
